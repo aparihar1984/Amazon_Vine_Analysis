@@ -11,17 +11,15 @@ For this assignment, we were provided access to 50 datasets.  Each dataset featu
 How many Vine reviews and non-Vine reviews were there?
 
 There were 416 total paid vine reviews and 86356 total non-paid vine reviews.
-[GitHub Picture]()
 
 How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
 There were 172 5-Star paid reviews and 45472 5-Star non-paid reviews.
-[GitHub Picture]()
 
 What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
 The precentage of paid 5-Star reviews was 41 percent, and the percentage of non-paid 5-Star reviews was 53.
-[GitHub Picture]()
+[GitHub Picture](https://github.com/aparihar1984/Amazon_Vine_Analysis/blob/main/Reviews%20Summary%20Table%20Pic.png)
 
 ## Summary
 
